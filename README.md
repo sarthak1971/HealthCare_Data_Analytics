@@ -56,3 +56,48 @@ The project uses the following tables:
 Detailed schema is available in the [case_study.html](case_study%20(1).html) file.
 
 ## 📁 Project Structure
+
+healthcare-analytics-case-study/
+├── healthcare.sql              # All SQL queries
+├── case_study (1).html         # Project documentation
+├── README.md                   # This file
+└── (Optional) data/            # Sample data (if added later)
+
+
+## 🛠️ Technologies Used
+
+- **MySQL** / **PostgreSQL** compatible SQL
+- Advanced SQL concepts:
+  - Window Functions (`NTILE`, `RANK`, `AVG`)
+  - CTEs (Common Table Expressions)
+  - Multiple Joins
+  - Date Functions (`DATEDIFF`, `CURRENT_DATE`)
+  - Aggregations and Grouping
+
+## 🚀 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/healthcare-analytics-case-study.git
+
+
+ 📊 Sample Insights
+
+High-value patients identified using RFM model (Score 5-5-5)
+Revenue contribution by treatment type and specialization
+Doctor performance ranking based on revenue and patient ratings
+Hospital benchmarking across states
+
+📈 Future Enhancements
+
+Add data visualization (Power BI / Tableau)
+Patient churn prediction
+Predictive analytics for appointment no-shows
+Automated dashboard
+
+📄 License
+This project is open for learning and portfolio purposes.
+
+Made with ❤️ for Data Analytics & SQL enthusiasts
+Feel free to fork, improve, and use this project in your portfolio!
+text
