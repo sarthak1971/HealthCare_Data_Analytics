@@ -58,6 +58,7 @@ Detailed schema is available in the [case_study.html](case_study%20(1).html) fil
 ## 📁 Project Structure
 
 healthcare-analytics-case-study/
+
 ├── healthcare.sql              # All SQL queries
 
 ├── case_study (1).html         # Project documentation
