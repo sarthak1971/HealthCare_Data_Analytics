@@ -99,8 +99,7 @@ Patient churn prediction
 Predictive analytics for appointment no-shows
 Automated dashboard
 
-📄 License
-This project is open for learning and portfolio purposes.
+
 
 Made with ❤️ for Data Analytics & SQL enthusiasts
 Feel free to fork, improve, and use this project in your portfolio!
